@@ -4,6 +4,10 @@ public class Gato extends Animal{
     private int alturaSalto;
     private int numeroVidas = 8;
 
+    public void prueba() {
+        System.out.println("hola");
+    }
+
     public int getAlturaSalto() {
         return alturaSalto;
     }
