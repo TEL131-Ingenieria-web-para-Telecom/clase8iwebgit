@@ -7,6 +7,9 @@ public class Gato extends Animal{
     public void prueba() {
         System.out.println("hola");
     }
+    public void prueba2() {
+        System.out.println("hola");
+    }
 
     public int getAlturaSalto() {
         return alturaSalto;
